@@ -1,0 +1,6 @@
+google.com
+example.com
+yahoo.com
+mail.yahoo.com
+duckduckgo.com
+gmail.com
